@@ -8,6 +8,7 @@ https://todo-project-fbfb7.web.app
 
 ## Core stack
 - Vue 2 (options API)
+- JavaScript
 - Vuex
 - Tailwind CSS
 - Vue Router
