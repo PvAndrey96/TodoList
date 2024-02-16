@@ -7,16 +7,16 @@ https://todo-project-fbfb7.web.app
 ![](images/registration.png)
 
 ## Core stack
-- Vue JS
-- Vue CLI
-- Vue Router
+- Vue 2 (options API)
 - Vuex
-- Tailwind CSS (Utility-First)
+- Tailwind CSS
+- Vue Router
+- Vue CLI
+- HTML
 - Firebase
 - Webpack
 - ESLint (style guide Airbnb)
 - Babel
-- HTML
 
 ## Project setup
 ```
